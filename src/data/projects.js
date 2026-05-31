@@ -244,7 +244,7 @@ export const testimonials = [
     company: "Verdantia Global",
     content:
       "Working with Salar was an absolute game-changer. He transformed our complex emissions equations into an beautiful, fluid corporate dashboard. Recruiter feedback has been stellar, and his code cleanliness is unparalleled.",
-    avatar: "/images/fatima.png",
+    avatar: "/images/fatima.PNG",
   },
   {
     id: "2",
