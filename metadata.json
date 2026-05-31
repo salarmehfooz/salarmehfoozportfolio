@@ -1,0 +1,6 @@
+{
+  "name": "Salar Mehfooz Portfolio",
+  "description": "Premium cinematic MERN portfolio website for Salar Mehfooz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
